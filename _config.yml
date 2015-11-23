@@ -1,0 +1,28 @@
+name: HL Test
+favicon: null
+layout_spectrum: 0.03829967649653554
+typography_spectrum: 0.8976606926880777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9103042704518884
+  lightness: 0.7372254803776741
+  saturation: 0.5009306317660958
+  rhythmicContrast: 0.23797110910527408
+purpose: []
